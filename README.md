@@ -5,7 +5,7 @@ normally these are used to give the interests
 
 #Initialization
 
-`npm install react-interest-tag --save`
+```npm install react-interest-tag --save```
 
 Then...
 
