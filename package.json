@@ -1,0 +1,28 @@
+{
+  "name": "react-tags-interest",
+  "version": "0.1.0",
+  "description": "A react tags component with a lot of customization",
+  "main": "Tags.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifkhan7865/reactinteresttag.git"
+  },
+  "keywords": [
+    "react-tags",
+    "tags",
+    "interest",
+    "tags",
+    "react-tags-interest",
+    "tags",
+    "interest-tags"
+  ],
+  "author": "Mohammed Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifkhan7865/reactinteresttag/issues"
+  },
+  "homepage": "https://github.com/saifkhan7865/reactinteresttag#readme"
+}
