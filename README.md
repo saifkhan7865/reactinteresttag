@@ -18,7 +18,9 @@ Then...
     SendClass={"sendButton"} //the send button style in the input element 
     SendImage={rightarrow} // send image 
     CustomStyle={{ color: "#000", margin: "3px" }} //custom style for the element/tag i.e. the button 
-    styleClass={"btn btn-outline-primary buttonHover"} //style for the button i.e the element/tag crossImage={cancel} //    cross Image value={{ 
+    styleClass={"btn btn-outline-primary buttonHover"} //style for the button i.e the element/tag 
+    crossImage={cancel} //cross Image that is in the button of the tag/element 'x' 
+    value={{ 
     value: value, //BOOLEAN STATE TRUE = SHOW, FALSE = HIDE COMPONENT 
     interest: interest, //Use state array containing all the interests 
     setIntersts: setIntersts //set state method for removing and adding items 
