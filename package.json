@@ -1,6 +1,6 @@
 {
   "name": "react-tags-interest",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A react tags component with a lot of customization",
   "main": "Tags.js",
   "scripts": {
