@@ -12,6 +12,9 @@ Then...
 #How do you use it?
 
 ```
+//importing the component
+import Tags from "react-tags-interest";
+
 <Tags 
     InputClass={"InputClass"} //class for the input the place where you will enter the text 
     CrossClass={"cross"} //cross button on the tag you can add hover event on the class 
